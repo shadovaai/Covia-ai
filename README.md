@@ -1,6 +1,8 @@
 <p align="center">
-  <img src="./A2047E91-7C12-48D3-9F89-8F789995F751.png" alt="Covia AI — Business Operations & Automation Platform" width="100%">
+  <img src="./assets/covia-ai-banner.png" alt="Covia AI — Business Operations & Automation Platform" width="100%">
 </p>
+
+*Portfolio visualization — public case study; production implementation remains private*
 
 # Covia AI
 
