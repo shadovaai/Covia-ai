@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./A2047E91-7C12-48D3-9F89-8F789995F751.png" alt="Covia AI — Business Operations & Automation Platform" width="100%">
+</p>
+
 # Covia AI
 
 ### Business Operations & Automation Platform
